@@ -71,6 +71,17 @@
 | Default Mode Network & Memory | 2022 | Nature Neuroscience | DMN 激活与自传体记忆提取相关 |
 | Cognitive Reserve Theory | 2024 | Lancet Neurology | 认知储备可延缓 AD 发病 5-7 年 |
 
+#### 顶级期刊与数据库
+
+| 资源 | 类型 | 影响因子 | 链接 |
+|------|------|----------|------|
+| **New England Journal of Medicine (NEJM)** | 顶级医学期刊 | 158.5 | [nejm.org](https://www.nejm.org/) |
+| **The Lancet Healthy Longevity** | 老年健康顶级期刊 | 49.3 | [thelancet.com/journals/lanhl](https://www.thelancet.com/journals/lanhl/home) |
+| **Nature Aging** | 衰老研究顶级期刊 | 41.4 | [nature.com/nataging](https://www.nature.com/nataging/) |
+| **PubMed Central - Digital Therapy** | 生物医学数据库 | - | [ncbi.nlm.nih.gov/pmc](https://www.ncbi.nlm.nih.gov/pmc/?term=digital+therapy) |
+| **Cochrane Library - Dementia** | 系统评价数据库 | - | [cochranelibrary.com](https://www.cochranelibrary.com/search?searchType=advanced&searchFor=dementia) |
+| **Google Scholar - Cognitive Training** | 学术搜索引擎 | - | [scholar.google.com](https://scholar.google.com/scholar?q=cognitive+training+digital+therapy) |
+
 ---
 
 ### 🛠️ 开源工具
