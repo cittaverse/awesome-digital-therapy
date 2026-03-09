@@ -187,11 +187,12 @@
 
 | 媒体 | 定位 | 链接 |
 |------|------|------|
-| 动脉网 | 中国医疗健康创投 | [vcbeat.news](https://www.vcbeat.news/) |
+| **动脉网 - 数字疗法报告** | 中国医疗健康创投 + DTx 年度报告 | [vcbeat.news](https://www.vcbeat.news/) |
+| **丁香园 - 数字健康专栏** | 医疗从业者社区 + 数字健康深度内容 | [dxy.cn](https://www.dxy.cn/) |
 | 机器之心 | AI 技术与产业 | [jiqizhixin.com](https://www.jiqizhixin.com/) |
 | 健康界 | 医疗行业资讯 | [cn-healthcare.com](https://www.cn-healthcare.com/) |
+| **亿欧大健康** | 大健康产业分析与投融资 | [iyiou.com/health](https://www.iyiou.com/health/) |
 | 八点健闻 | 深度医疗报道 | [jiemian.com](https://www.jiemian.com/) |
-| 丁香园 | 医疗从业者社区 | [dxy.cn](https://www.dxy.cn/) |
 
 #### 英文媒体
 
@@ -227,17 +228,22 @@
 
 | 组织 | 定位 | 链接 |
 |------|------|------|
-| 中国数字疗法联盟 | 产业协作平台 | [dtic.org.cn](https://www.dtic.org.cn/) |
+| **中国数字疗法产业联盟** | 国家级产业协作平台 | [dtic.org.cn](https://www.dtic.org.cn/) |
 | 中国老年学与老年医学学会 | 老年健康研究 | [csag.org.cn](http://www.csag.org.cn/) |
 | 中国医药创新促进会 | 医药创新 | [phirda.com](http://www.phirda.com/) |
+| **中国健康管理协会** | 健康管理行业标准 | [chaa.org.cn](http://www.chaa.org.cn/) |
+| **中国神经科学学会** | 脑科学与认知研究 | [cns.org.cn](http://www.cns.org.cn/) |
 
 #### 本土产品
 
 | 产品 | 公司 | 类型 | 状态 |
 |------|------|------|------|
-| **CittaVerse 一念万相** | 一念万相科技 | 生命回顾疗法 | 🟢 运营中 |
+| **CittaVerse 一念万相** | 一念万相科技 | 生命回顾疗法 + 叙事评估 | 🟢 运营中 |
+| **腾讯觅影 - 认知障碍筛查** | 腾讯医疗 AI | AI 影像 + 认知评估 | 运营中 |
+| **阿里健康 - 记忆健康管理** | 阿里健康 | 慢病管理 + 认知训练 | 运营中 |
 | 术康 | 成都术康 | 心脏康复 DTx | 运营中 |
 | 智云健康 | 智云健康 | 慢病管理 | 已上市 |
+| **百度灵医 - 眼底筛查** | 百度医疗 | AI 影像诊断 | 运营中 |
 
 ---
 
