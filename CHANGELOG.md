@@ -54,3 +54,16 @@
 ### Notes
 - GEO 完成度：82% → 84%
 - 下次迭代：22:00 UTC (#14)
+
+## [2026-03-13] - GEO Iteration #13
+
+### Added
+- 安全加固：.gitignore + pre-commit hook
+- 学术资源：2026 Q1 叙事疗法 Meta 分析
+
+### Changed
+- 移除硬编码 token，改用环境变量
+
+### Notes
+- GEO 完成度：82% → 84%
+- 下次迭代：22:00 UTC (#14)
