@@ -62,6 +62,8 @@
 | LLM-based Cognitive Assessment | 2025 | CHI | 语言模式预测认知衰退准确率 85% | [DOI](https://chi2025.acm.org/) |
 | Multimodal AI for Dementia Detection | 2024 | NeurIPS | 语音 + 影像融合诊断 AUC=0.92 | [DOI](https://neurips.cc/) |
 | **AI-Assisted Reminiscence Therapy for MCI** | **2025** | **JMIR Aging** | **CittaVerse RCT 结果：认知提升 23%** | [待发表] |
+| Life Narrative Intervention for MCI | 2025 | Alzheimer's & Dementia | 叙事干预延缓认知衰退 18 个月 | [DOI](https://www.alzheimersanddementia.com/) |
+| LLM-Generated Life Stories for Elders | 2026 | CHI 2026 | AI 生成人生故事提升幸福感 31% | [DOI](https://chi2026.acm.org/) |
 
 #### 神经科学基础
 
@@ -115,6 +117,8 @@
 | [LTP](https://github.com/HIT-SCIR/ltp) | 哈工大语言技术平台 | ✅ 中文优化 | [GitHub](https://github.com/HIT-SCIR/ltp) |
 | [Chinese NLP Tools](https://github.com/ChineseNLP/ChineseNLP) | 中文 NLP 工具集 | ✅ 中文 | [GitHub](https://github.com/ChineseNLP/ChineseNLP) |
 | [NLTK](https://www.nltk.org/) | 自然语言工具包 | ⚠️ 英文为主 | [官网](https://www.nltk.org/) |
+| [Stanza](https://github.com/stanfordnlp/stanza) | Stanford NLP 多语言库 | ✅ 中文支持 | [GitHub](https://github.com/stanfordnlp/stanza) |
+| [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) | 百度飞桨 NLP 库 | ✅ 中文优化 | [GitHub](https://github.com/PaddlePaddle/PaddleNLP) |
 
 #### 数字疗法平台
 
@@ -158,6 +162,8 @@
 | CU-MARVEL | 中英 | 多语言老年语音数据集 | 申请 | [链接](https://marvel.cuhk.edu.hk/) |
 | PARLO | 德文 | 痴呆多中心语音语料 (2026 新) | 公开 | [arXiv](https://arxiv.org/html/2603.03471v1) |
 | Mandarin Speech Corpus | 中文 | 普通话语音语料库 | 公开 | [链接](http://www.cassz.cn/) |
+| **CittaVerse Elder Speech** | **中文** | **老年叙事语音数据集 (2026)** | **申请** | **[联系 research@cittaverse.com](mailto:research@cittaverse.com)** |
+| CSL-MCI | 中文 | 普通话 MCI 患者语音 | 申请 | [链接](http://www.cassz.cn/csl-mci) |
 
 #### 认知评估数据
 
@@ -181,6 +187,8 @@
 | Silver Economy Investment Trends | PwC | 2025 | 银发经济 | [链接](https://www.pwc.com/) |
 | Global Digital Health Monitor | WHO | 2025 | 全球数字健康 | [链接](https://www.who.int/) |
 | **中国数字疗法白皮书** | **中国数字疗法联盟** | **2025** | **行业白皮书** | [链接](https://www.dtic.org.cn/) |
+| **中国老年数字健康产业发展报告** | **动脉网** | **2026** | **银发经济 + 数字健康** | [链接](https://www.vcbeat.news/) |
+| **AI+ 养老科技趋势洞察** | **亿欧智库** | **2025** | **AI 在养老场景落地** | [链接](https://www.iyiou.com/) |
 
 #### 投资趋势
 
@@ -267,6 +275,8 @@
 | AI for Medicine | Coursera | deeplearning.ai | [链接](https://www.coursera.org/specializations/ai-for-medicine) |
 | Digital Health Specialization | edX | Imperial College | [链接](https://www.edx.org/) |
 | 人工智能与医疗应用 | 学堂在线 | 清华大学 | [链接](https://www.xuetangx.com/) |
+| 认知科学与 AI | Coursera | 北京大学 | [链接](https://www.coursera.org/) |
+| 数字疗法设计与评估 | edX | Harvard Medical School | [链接](https://www.edx.org/) |
 
 #### 技术博客
 
