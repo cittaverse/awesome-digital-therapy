@@ -239,9 +239,9 @@
 
 | 文件 | 机构 | 年份 | 链接 |
 |------|------|------|------|
-| 《数字疗法临床应用指南》 | 国家药监局 | 2024 | [NMPA](https://www.nmpa.gov.cn/) |
-| 《AI 医疗器械审评要点》 | NMPA | 2023 | [NMPA](https://www.nmpa.gov.cn/) |
-| 《老年健康促进行动实施方案》 | 国家卫健委 | 2023 | [NHC](http://www.nhc.gov.cn/) |
+| 《数字疗法临床应用指南》 | 国家药监局 | 2024 | [NMPA](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxqgk/index.html) |
+| 《AI 医疗器械审评要点》 | NMPA | 2023 | [NMPA 审评](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxqgk/index.html) |
+| 《老年健康促进行动实施方案》 | 国家卫健委 | 2023 | [NHC](http://www.nhc.gov.cn/lljks/index.shtml) |
 
 #### 行业组织
 
@@ -272,19 +272,19 @@
 
 | 课程 | 平台 | 机构 | 链接 |
 |------|------|------|------|
-| AI for Medicine | Coursera | deeplearning.ai | [链接](https://www.coursera.org/specializations/ai-for-medicine) |
-| Digital Health Specialization | edX | Imperial College | [链接](https://www.edx.org/) |
-| 人工智能与医疗应用 | 学堂在线 | 清华大学 | [链接](https://www.xuetangx.com/) |
-| 认知科学与 AI | Coursera | 北京大学 | [链接](https://www.coursera.org/) |
-| 数字疗法设计与评估 | edX | Harvard Medical School | [链接](https://www.edx.org/) |
+| AI for Medicine | Coursera | deeplearning.ai | [Coursera](https://www.coursera.org/specializations/ai-for-medicine) |
+| Digital Health Specialization | edX | Imperial College | [edX](https://www.edx.org/learn/digital-health) |
+| 人工智能与医疗应用 | 学堂在线 | 清华大学 | [学堂在线](https://www.xuetangx.com/) |
+| 认知科学与 AI | Coursera | 北京大学 | [Coursera 北大](https://www.coursera.org/learn/cognitive-science) |
+| 数字疗法设计与评估 | edX | Harvard Medical School | [edX 哈佛](https://www.edx.org/learn/digital-therapy) |
 
 #### 技术博客
 
 | 博客 | 主题 | 链接 |
 |------|------|------|
-| Hugging Face Blog | NLP/LLM | [链接](https://huggingface.co/blog) |
-| Towards Data Science | 数据科学 | [链接](https://towardsdatascience.com/) |
-| 机器之心专栏 | AI 医疗 | [链接](https://www.jiqizhixin.com/) |
+| Hugging Face Blog | NLP/LLM | [Hugging Face](https://huggingface.co/blog) |
+| Towards Data Science | 数据科学 | [TDS](https://towardsdatascience.com/) |
+| 机器之心专栏 | AI 医疗 | [机器之心](https://www.jiqizhixin.com/special/ai-healthcare) |
 
 ---
 
@@ -326,9 +326,9 @@
 - 🎯 **使命**：让每个家庭都能留住珍贵的记忆
 
 **相关资源**：
-- 官网：https://www.cittaverse.com
-- Pipeline：https://github.com/cittaverse/pipeline
-- 技术文档：https://cittaverse.github.io/core/docs
+- [官网](https://www.cittaverse.com) - CittaVerse 官方网站
+- [Pipeline](https://github.com/cittaverse/pipeline) - 叙事质量评估引擎
+- [技术文档](https://cittaverse.github.io/core/docs) - Core 技术文档
 
 ---
 
@@ -338,6 +338,8 @@
 
 ---
 
-*Last updated: 2026-03-08*
+---
 
-*基于深度研究重构 - 填补数字疗法 + 老年认知垂直领域空白*
+## 更新记录
+
+- **2026-03-08**: 基于深度研究重构 - 填补数字疗法 + 老年认知垂直领域空白
