@@ -119,6 +119,25 @@
 | [Stanza](https://github.com/stanfordnlp/stanza)               | Stanford NLP 多语言库 | ✅ 中文支持     | [GitHub](https://github.com/stanfordnlp/stanza)     |
 | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)        | 百度飞桨 NLP 库        | ✅ 中文优化     | [GitHub](https://github.com/PaddlePaddle/PaddleNLP) |
 
+#### 叙事自动评分研究 (2024-2026) 🆕
+
+| 研究 | 方法 | 核心发现 | 链接 |
+|------|------|----------|------|
+| van Genugten & Schacter (2024) | distilBERT 微调评分自传访谈 | NLP 评分与人工评分高度一致，被引 45+ | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10990986/) |
+| Klus et al. (2025) | LLM 评分自传细节叙事 | LLM 可靠区分内部/外部细节，支持大规模研究 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/40750940/) |
+| Mansfield et al. (2026) | ChatGPT 解读个人叙事 | AI 可揭示叙事者未意识到的模式 | [Nature](https://www.nature.com/articles/s41599-025-06426-y) |
+| Mistica et al. (2024) | NLP 自动分类自传记忆类型 | 5 类自传记忆自动分类，被引 11 | [Springer](https://link.springer.com/article/10.3758/s13428-024-02385-5) |
+
+> 📋 完整证据摘要见 [docs/evidence_ai_narrative_assessment_2025_2026.md](docs/evidence_ai_narrative_assessment_2025_2026.md)
+
+#### 数字回忆技术接受度研究 (2026) 🆕
+
+| 研究 | 方法 | 核心发现 | 链接 |
+|------|------|----------|------|
+| Zitrin et al. (2026) | 前瞻性接受度研究 | 心理社会目标匹配是最重要的采纳预测因素 | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12927988/) |
+| Yang et al. (2026) | 质性研究老年人+医疗者视角 | 可及性、隐私关切是关键主题 | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12953960/) |
+| Kot et al. (2026) | GenAI 痴呆韧性建设 | MCI 患者对 AI 辅助回忆有明确需求 | [ACM TOCHI](https://dl.acm.org/doi/10.1145/3773029) |
+
 #### 数字疗法平台
 
 | 平台                                                   | 类型        | 地区     | 状态     |
@@ -341,4 +360,5 @@
 
 ## 更新记录
 
+- **2026-03-18**: GEO #40 — 新增叙事自动评分研究 (2024-2026) + 数字回忆技术接受度研究 (2026)
 - **2026-03-08**: 基于深度研究重构 - 填补数字疗法 + 老年认知垂直领域空白
