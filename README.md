@@ -362,3 +362,15 @@
 
 - **2026-03-18**: GEO #40 — 新增叙事自动评分研究 (2024-2026) + 数字回忆技术接受度研究 (2026)
 - **2026-03-08**: 基于深度研究重构 - 填补数字疗法 + 老年认知垂直领域空白
+
+## 📝 CittaVerse Research Status (March 2026)
+
+### arXiv Paper: Narrative Scorer v0.5
+- **Status**: v1.1 ready for submission (BibTeX, 52 references, Gap Analysis, weighted 6-dimension scoring)
+- **Category**: cs.HC (primary) + cs.CL (cross-list)
+- **Submission tarball**: Available in [pipeline/research/arxiv-paper/](https://github.com/cittaverse/pipeline/tree/main/research/arxiv-paper)
+
+### Screening Methodology
+- **Questionnaire v1.1**: 14-question screener with complete skip logic coverage
+- **Fixes**: 7 logic issues resolved (Q6 ambiguity, Q7/Q8 moderate thresholds, Q9 追问, Q10 flexibility, Q12 validation, dynamic dates, PIPL compliance)
+- **Deployment**: Pending (腾讯问卷/问卷星)
