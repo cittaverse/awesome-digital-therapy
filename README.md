@@ -374,3 +374,9 @@
 - **Questionnaire v1.1**: 14-question screener with complete skip logic coverage
 - **Fixes**: 7 logic issues resolved (Q6 ambiguity, Q7/Q8 moderate thresholds, Q9 追问, Q10 flexibility, Q12 validation, dynamic dates, PIPL compliance)
 - **Deployment**: Pending (腾讯问卷/问卷星)
+
+### Narrative Scorer v0.6 Roadmap
+- **LLM-enhanced hybrid scoring**: Rule-based + LLM-as-Judge fusion (Q2 2026)
+- **Multi-dialect support**: Cantonese + Wu dialect (Q3 2026)
+- **Clinical validation**: Human-AI agreement metrics from pilot RCT (Q4 2026)
+- **Full roadmap**: [narrative-scorer/ROADMAP-v0.6.md](https://github.com/cittaverse/narrative-scorer/blob/main/ROADMAP-v0.6.md)
