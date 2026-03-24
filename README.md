@@ -92,7 +92,7 @@
 | 工具                                                                           | 描述                    | 语言     | 链接     |
 |----------------------------------------------------------------------------|---------------------|------|------|
 | **[CittaVerse Pipeline](https://github.com/cittaverse/pipeline)**            | 神经符号叙事评估引擎            | 中文优化   | 🟢 本组织  |
-| **[Narrative Scorer](https://github.com/cittaverse/narrative-scorer)**       | 六维叙事质量评分器 v0.6.0 — 事件边界检测v2 + 60测试 + CI         | 中文优化   | 🟢 本组织  |
+| **[Narrative Scorer](https://github.com/cittaverse/narrative-scorer)**       | 六维叙事质量评分器 v0.6.0 — 事件边界检测v2 + 60测试 + CI + [nlg-metricverse插件](https://github.com/disi-unibo-nlp/nlg-metricverse/pull/11)         | 中文优化   | 🟢 本组织  |
 | [LLM-MCI-detection](https://github.com/yanghangit/LLM-MCI-detection)         | LLM 数据生成增强 MCI 检测     | 英文     | 外部     |
 | [Alzheimer-s-Detection](https://github.com/hananshafi/Alzheimer-s-Detection) | 语言线索检测 (DementiaBank) | 英文     | 外部     |
 | [LLMCARE](https://github.com/llmcare/llmcare)                                | 语音 +transformer 认知筛查  | 英文     | 外部     |
