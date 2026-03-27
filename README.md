@@ -120,6 +120,19 @@
 | [Stanza](https://github.com/stanfordnlp/stanza)               | Stanford NLP 多语言库 | ✅ 中文支持     | [GitHub](https://github.com/stanfordnlp/stanza)     |
 | [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)        | 百度飞桨 NLP 库        | ✅ 中文优化     | [GitHub](https://github.com/PaddlePaddle/PaddleNLP) |
 
+#### 叙事评估相关工具 (Related Narrative Assessment Tools)
+
+| 工具                                                                 | 描述                                                                 | 语言     | 链接                                                                                                   |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------|
+| **[LIWC-22](https://liwc.net/)**                                     | Linguistic Inquiry and Word Count — 心理语言特征分析金标准 (情感/认知/社会过程)              | 英文为主   | [官网](https://liwc.net/) / [学术引用](https://doi.org/10.1037/0022-3514.51.6.1173)                   |
+| **[TASS](https://github.com/taogroup/tass)**                         | Text Analysis of Social Media — 社交媒体文本心理特征提取 (Big5 人格/情感/认知风格)        | 英文     | [GitHub](https://github.com/taogroup/tass)                                                             |
+| **[IBM Watson Tone Analyzer](https://www.ibm.com/watson/tone-analyzer)** | 云 API 情感/语气/写作风格分析 — 支持商务/社交/技术写作场景评估                              | 多语言     | [IBM Cloud](https://www.ibm.com/watson/tone-analyzer)                                                  |
+| **[Meaning Extraction Method (MEM)](https://mem.psych.rice.edu/)**   | 基于主题建模的叙事语义分析 — 识别个人叙事中的核心主题与认知图式                              | 英文     | [Rice University](https://mem.psych.rice.edu/)                                                         |
+| **[CAVE](https://www.seligman.com/cave)**                            | Content Analysis of Verbatim Explanations — 归因风格分析 (乐观/悲观解释风格)              | 英文     | [Seligman Center](https://www.seligman.com/cave)                                                       |
+| **[DICTION 7](https://dictionsoftware.com/)**                        | 文本分析软件 — 政治/组织/个人叙事的话语分析 (确定性/乐观性/活动性/现实性/共同性)            | 英文     | [官网](https://dictionsoftware.com/)                                                                   |
+
+> 💡 **对比说明**: narrative-scorer 专注于**中文自传体叙事质量评估**，填补了现有工具在中文老年叙事评估领域的空白。LIWC/TASS 等工具主要针对英文文本，且侧重心理特征而非叙事结构质量。
+
 #### 叙事自动评分研究 (2024-2026) 🆕
 
 | 研究 | 方法 | 核心发现 | 链接 |
