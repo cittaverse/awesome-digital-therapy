@@ -82,6 +82,11 @@
 | **PubMed Central - Digital Therapy**       | 生物医学数据库  | -          | [ncbi.nlm.nih.gov/pmc](https://www.ncbi.nlm.nih.gov/pmc/?term=digital+therapy)                       |
 | **Cochrane Library - Dementia**            | 系统评价数据库  | -          | [cochranelibrary.com](https://www.cochranelibrary.com/search?searchType=advanced&searchFor=dementia) |
 | **Google Scholar - Cognitive Training**    | 学术搜索引擎   | -          | [scholar.google.com](https://scholar.google.com/scholar?q=cognitive+training+digital+therapy)        |
+| **IEEE Xplore - Digital Health**           | 工程/技术数据库 | -          | [ieeexplore.ieee.org](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=digital%20health%20therapy) |
+| **PsycINFO - Reminiscence Therapy**        | 心理学数据库  | -          | [apa.org/psycinfo](https://www.apa.org/pubs/databases/psycinfo) — Search: "reminiscence therapy elderly" |
+| **ClinicalTrials.gov - Cognitive Intervention** | 临床试验注册库 | -          | [clinicaltrials.gov](https://clinicaltrials.gov/search?term=cognitive%20intervention%20elderly) |
+| **JMIR Publications - Digital Mental Health** | 数字健康期刊群 | 7.1 (JMIR) | [jmir.org](https://www.jmir.org/) — Leading digital health publisher |
+| **Frontiers in Psychology - Aging**        | 开放获取期刊  | 3.8        | [frontiersin.org/journals/psychology](https://www.frontiersin.org/journals/psychology/sections/aging) |
 
 ---
 
