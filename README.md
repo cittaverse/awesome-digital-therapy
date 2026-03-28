@@ -299,6 +299,18 @@
 | 智云健康                | 智云健康    | 慢病管理          | 已上市    |
 | **百度灵医 - 眼底筛查**     | 百度医疗    | AI 影像诊断       | 运营中    |
 
+#### 国际数字疗法公司
+
+| 公司 | 产品 | 适应症 | 监管状态 | 链接 |
+|------|------|--------|----------|------|
+| **Akili Interactive** | EndeavorRx | ADHD 儿童认知训练 | FDA 批准 | [akiliinteractive.com](https://www.akiliinteractive.com/) |
+| **Pear Therapeutics** | reSET | 物质使用障碍 | FDA 批准 | [peartherapeutics.com](https://www.peartherapeutics.com/) |
+| **Big Health** | Sleepio | 失眠 CBT 疗法 | NICE 推荐 | [bighealth.com](https://www.bighealth.com/) |
+| **Click Therapeutics** | Clickotine | 戒烟干预 | FDA 突破设备 | [clicktherapeutics.com](https://www.clicktherapeutics.com/) |
+| **Happify Health** | Happify | 焦虑/抑郁数字疗法 | CE 认证 | [happifyhealth.com](https://www.happifyhealth.com/) |
+| **Neurotrack** | Imprint | 认知衰退预防 | FDA 批准 | [neurotrack.com](https://www.neurotrack.com/) |
+| **BrainHQ (Posit Science)** | BrainHQ | 认知训练 | 临床验证 | [brainhq.com](https://www.brainhq.com/) |
+
 ---
 
 ### 🎓 学习资源
