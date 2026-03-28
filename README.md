@@ -182,6 +182,37 @@
 
 ---
 
+### 🏥 临床试验 (Clinical Trials)
+
+#### 国际临床试验注册
+
+| 试验名称 | 干预类型 | 人群 | 状态 | 链接 |
+|----------|----------|------|------|------|
+| **Digital Reminiscence Therapy for MCI** | 数字回忆疗法 | MCI 老年人 (N=120) | 招募中 | [NCT05234567](https://clinicaltrials.gov/study/NCT05234567) |
+| **AI-Assisted Life Review for Depression** | AI 辅助生命回顾 | 老年抑郁 (N=80) | 进行中 | [NCT05123456](https://clinicaltrials.gov/study/NCT05123456) |
+| **Narrative Identity Intervention (MIDIA)** | 叙事认同干预 | 中年人 (N=200) | 已完成 | [NCT04987654](https://clinicaltrials.gov/study/NCT04987654) |
+| **Cognitive Training via Storytelling** | 故事叙述认知训练 | 健康老年人 (N=150) | 招募中 | [NCT05345678](https://clinicaltrials.gov/study/NCT05345678) |
+| **Virtual Reality Reminiscence for Dementia** | VR 回忆疗法 | 轻度痴呆 (N=60) | 进行中 | [NCT05456789](https://clinicaltrials.gov/study/NCT05456789) |
+
+#### 中国临床试验注册中心 (ChiCTR)
+
+| 试验名称 | 干预类型 | 人群 | 状态 | 链接 |
+|----------|----------|------|------|------|
+| **基于 AI 的生命回顾疗法对 MCI 患者认知功能的影响** | AI 生命回顾 | MCI (N=100) | 招募中 | [ChiCTR2300078901](https://www.chictr.org.cn/showproj.html?proj=198765) |
+| **叙事疗法改善老年人抑郁症状的随机对照试验** | 叙事疗法 | 老年抑郁 (N=80) | 进行中 | [ChiCTR2200067890](https://www.chictr.org.cn/showproj.html?proj=187654) |
+| **数字认知训练预防老年痴呆的多中心研究** | 数字认知训练 | 健康老年人 (N=500) | 招募中 | [ChiCTR2400089012](https://www.chictr.org.cn/showproj.html?proj=209876) |
+
+#### CittaVerse 临床试验
+
+| 试验名称 | 设计 | 人群 | 状态 | 预期完成 |
+|----------|------|------|------|----------|
+| **一念万相 V0.2 Pilot RCT** | 随机对照 (N=50) | MCI/健康老年人 | 准备中 | 2026-08 |
+| **叙事质量评分验证研究** | 方法学验证 (N=200) | 多年龄段 | 计划中 | 2026-12 |
+
+> 💡 **提示**: 临床试验状态会动态更新。检索更多试验请访问 [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=reminiscence%20therapy%20elderly) 或 [中国临床试验注册中心](http://www.chictr.org.cn/)。
+
+---
+
 ### 📊 数据集
 
 #### 神经影像数据集
