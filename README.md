@@ -171,6 +171,9 @@
 | MMSE (简易精神状态检查) | 痴呆筛查量表    | 多语言    | [中文版](http://www.medscinet.net/)    |
 | CDR (临床痴呆评定)    | 痴呆严重程度分级  | 多语言    | [下载](https://knightadrc.wustl.edu/) |
 | GDS-15 (老年抑郁量表) | 抑郁症状筛查    | 多语言    | [下载](https://www.webmd.com/)        |
+| **ACE-R (Addenbrooke's 认知检查)** | 扩展认知评估 (注意/记忆/语言/视空间) | 多语言 | [官网](https://www.neurosciences.org.au/) |
+| **FAQ (功能活动问卷)** | 日常功能能力评估 (IADL) | 多语言 | [下载](https://www.alz.org/) |
+| **NPI (神经精神量表)** | 痴呆相关神经精神症状 (幻觉/妄想/焦虑等) | 多语言 | [官网](https://www.neuropsych.com/) |
 
 ---
 
