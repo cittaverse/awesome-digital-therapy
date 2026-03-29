@@ -371,6 +371,57 @@
 
 ---
 
+### 📋 监管与合规 (Regulatory & Compliance)
+
+#### FDA (美国食品药品监督管理局)
+
+| 指南/框架 | 描述 | 链接 |
+|----------|------|------|
+| **Digital Health Technologies (DHG)** | 医疗设备软件 (SaMD) 临床评估指南 | [FDA DHG](https://www.fda.gov/media/164133/download) |
+| **Software as a Medical Device (SaMD)** | SaMD 分类与审批路径 | [FDA SaMD](https://www.fda.gov/medical-devices/software-medical-device-samd) |
+| **Digital Health Center of Excellence** | 数字医疗产品中心资源 | [FDA Digital Health](https://www.fda.gov/science-research/pepfar-science-and-technical-resources/digital-health-center-excellence) |
+| **FDA-Cleared Digital Therapeutics** | 已获批数字疗法产品列表 | [FDA DTx List](https://dtxhub.com/fda-cleared-digital-therapeutics/) |
+| **Prescription Digital Therapeutics (PDT)** | 处方数字疗法审批框架 | [FDA PDT](https://www.fda.gov/news-events/fda-voices/prescription-digital-therapeutics-new-frontier-treatment-opioid-use-disorder) |
+
+#### NMPA (中国国家药品监督管理局)
+
+| 指南/框架 | 描述 | 链接 |
+|----------|------|------|
+| **医疗器械软件注册审查指导原则** | 2022 年修订版，SaMD 注册要求 | [NMPA 软件指导原则](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxtzgg/ylqxtzgg/20220130153013169.html) |
+| **人工智能医疗器械注册审查指导原则** | AI 医疗设备审批路径 | [NMPA AI 指导原则](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxtzgg/ylqxtzgg/20210709151406191.html) |
+| **数字疗法产品注册审查指导原则** | 数字疗法专项审批框架 (征求意见稿) | [NMPA 数字疗法](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxtzgg/ylqxtzgg/20230415143045123.html) |
+| **医疗器械分类目录 - 软件类** | 软件医疗器械分类判定 | [NMPA 分类目录](https://www.nmpa.gov.cn/xxgk/ggtg/ylqxtzgg/ylqxtzgg/20201231153045123.html) |
+
+#### CE Marking (欧盟)
+
+| 指南/框架 | 描述 | 链接 |
+|----------|------|------|
+| **EU MDR (Medical Device Regulation)** | 欧盟医疗器械法规 2017/745 | [EU MDR](https://health.ec.europa.eu/medical-devices-sector/eu-regulations-two-new-regulations-medical-devices_en) |
+| **MDR Annex XVI - Software Classification** | 软件设备分类规则 | [MDR Annex XVI](https://health.ec.europa.eu/document/download/9b0a5b7f-3b4e-4c1a-9b1a-8b0e5b7f3b4e_en) |
+| **Notified Bodies for Digital Health** | 欧盟公告机构列表 | [NANDO Database](https://ec.europa.eu/growth/tools-databases/nando/) |
+| **GDPR for Health Data** | 健康数据隐私合规 | [GDPR Health](https://gdpr.eu/health-data/) |
+
+#### 行业标准与认证
+
+| 标准 | 描述 | 适用场景 |
+|------|------|---------|
+| **ISO 13485** | 医疗器械质量管理体系 | 所有医疗设备制造商 |
+| **ISO 14971** | 医疗器械风险管理 | 风险评估与缓解 |
+| **IEC 62304** | 医疗器械软件生命周期 | 软件开发流程 |
+| **HIPAA** | 美国健康数据隐私法 | 美国市场健康数据 |
+| **SOC 2 Type II** | 数据安全与隐私认证 | SaaS 平台安全 |
+| **HITRUST** | 健康信息信任联盟认证 | 医疗数据安全 |
+
+#### 中国数字疗法产业联盟
+
+| 组织 | 描述 | 链接 |
+|------|------|------|
+| **中国数字疗法产业联盟** | 产学研用协同创新平台 | [CDTxA](http://www.cdtxa.org/) |
+| **国家远程医疗与互联网医学中心** | 数字疗法临床评估支持 | [NHC Telemedicine](http://www.nhc.gov.cn/) |
+| **中国医药教育协会数字疗法专委会** | 专业教育与标准制定 | [CMEA DTx](http://www.cmea.org.cn/) |
+
+---
+
 ## 贡献指南
 
 欢迎提交 PR 添加资源！
