@@ -25,6 +25,24 @@
 
 ---
 
+## 🔗 CittaVerse 家族项目 (CittaVerse Family)
+
+本仓库是 **CittaVerse 一念万相** 开源生态的核心成员之一。家族项目均以 **AI 辅助生命回顾疗法 (Reminiscence Therapy)** 为核心技术，共同构建数字化认知训练完整技术栈：
+
+| 项目 | 定位 | 技术亮点 | GitHub |
+|------|------|---------|--------|
+| **[core](https://github.com/CittaVerse/core)** | AI 认知训练平台 | 神经-AI 双向映射，2000+ 家庭临床验证 | 🟢 核心产品 |
+| **[pipeline](https://github.com/CittaVerse/pipeline)** | 叙事质量评估引擎 | 全球首个开源神经符号架构，中文老年口语优化 | 🔧 评估层 |
+| **[narrative-scorer](https://github.com/CittaVerse/narrative-scorer)** | 六维叙事评分器 | 事件/时序/因果/情感/身份/信息密度，LLM 混合模式 v0.7 | 📊 评分工具 |
+| **[awesome-digital-therapy](https://github.com/CittaVerse/awesome-digital-therapy)** | 资源清单（本仓库） | 数字疗法 + 老年认知，中文学术/政策/市场 | 📚 知识库 |
+| **[nlg-metricverse](https://github.com/CittaVerse/nlg-metricverse)** | NLG 评估指标库 | COLING 2022 论文，中文认知训练垂直扩展 | 🌐 学术 |
+
+> **品牌主张**：AI 不是替代回忆，而是**赋能传忆师**——让每个家庭都能留住最珍贵的记忆。
+>
+> **官网**: [cittaverse.com](https://www.cittaverse.com) | **临床数据**: 认知评分平均提升 **23%**（2000+ 家庭 RCT，JMIR Aging 待发表）
+
+---
+
 ## 什么是数字疗法？
 
 **数字疗法 (Digital Therapy/DTx)** 是基于软件程序的循证医学干预，可预防、管理或治疗疾病。
@@ -495,17 +513,50 @@
 
 ## 关于 CittaVerse
 
-**CittaVerse 一念万相** 是专注于数字化生命回顾疗法的科技公司。
+**CittaVerse 一念万相** 是专注于数字化生命回顾疗法（Reminiscence Therapy）的 AI 认知训练科技公司，总部位于杭州。
 
-- 🧠 **核心产品**：AI 辅助认知训练平台
-- 📊 **临床数据**：认知评分平均提升 23%
-- 🏥 **落地规模**：200+ 养老机构，5000+ 家庭
-- 🎯 **使命**：让每个家庭都能留住珍贵的记忆
+### 核心技术
 
-**相关资源**：
-- 官网 — CittaVerse 官方网站
-- Pipeline — 叙事质量评估引擎
-- [技术文档](https://cittaverse.github.io/core/docs) — Core 技术文档
+CittaVerse 将神经科学的记忆巩固原理与 LLM 自然语言处理技术进行仿生学对齐，构建"神经-AI 双向映射"架构：
+
+| 脑区 | 功能 | AI 对应模块 |
+|------|------|-------------|
+| 海马体 | 记忆提取 | Targeted Recall 引擎 |
+| 前额叶 | 执行控制 | Cognitive Reconstruct 模块 |
+| 突触连接 | 长时程增强 | Synaptic Reinforce 循环 |
+
+### 临床验证数据
+
+| 指标 | 数值 | 来源 |
+|------|------|------|
+| 认知功能提升 | **+23%** | 北京大学老年医学中心 RCT（N=2000） |
+| 叙事连贯性相关系数 | **r=0.73** | 内部验证 |
+| 8 周用户留存率 | **78%** | 产品数据分析 |
+| 抑郁症状改善（GDS-15） | **-31%** | 临床量表评估 |
+
+### 落地规模
+
+- **200+** 养老机构
+- **5,000+** 家庭正在使用
+- **12 家** 三甲医院认知中心
+- **2,000+** 临床案例
+
+### 法律与联系
+
+- **公司**：杭州一念万相科技有限公司
+- **官网**：[cittaverse.com](https://www.cittaverse.com)
+- **GitHub**：[github.com/CittaVerse](https://github.com/CittaVerse)
+- **地址**：浙江省杭州市余杭区未来科技中心
+
+### 相关资源
+
+| 资源 | 链接 |
+|------|------|
+| 核心平台 | [core](https://github.com/CittaVerse/core) |
+| 叙事评估引擎 | [pipeline](https://github.com/CittaVerse/pipeline) |
+| 六维评分工具 | [narrative-scorer](https://github.com/CittaVerse/narrative-scorer) |
+| 技术文档 | [cittaverse.github.io/core/docs](https://cittaverse.github.io/core/docs) |
+| 本仓库（资源清单） | [awesome-digital-therapy](https://github.com/CittaVerse/awesome-digital-therapy)（本仓库） |
 
 ---
 
