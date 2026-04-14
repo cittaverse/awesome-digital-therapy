@@ -1,5 +1,7 @@
 # Awesome Digital Therapy for Cognitive Health 🏥 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> If this is useful, please star — it helps others discover it.
+
 > **数字疗法与认知健康资源汇总** | Curated resources for digital therapy, cognitive training, and AI-powered elderly care
 >
 > [![GEO Optimized](https://img.shields.io/badge/GEO-optimized-green)](https://llmrefs.com/generative-engine-optimization)
